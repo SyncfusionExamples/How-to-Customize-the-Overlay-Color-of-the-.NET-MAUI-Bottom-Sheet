@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35521.163 d17.12
+VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BottomSheetSample", "BottomSheetSample.csproj", "{E9088629-2EC3-4246-9703-5A6724C59C8B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syncfusion.Maui.Toolkit", "..\..\bottomsheet-kb\maui-toolkit\maui\src\Syncfusion.Maui.Toolkit.csproj", "{0EEE3D80-8562-4661-9DFF-2E4190C46C61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{E9088629-2EC3-4246-9703-5A6724C59C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9088629-2EC3-4246-9703-5A6724C59C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9088629-2EC3-4246-9703-5A6724C59C8B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0EEE3D80-8562-4661-9DFF-2E4190C46C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0EEE3D80-8562-4661-9DFF-2E4190C46C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0EEE3D80-8562-4661-9DFF-2E4190C46C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0EEE3D80-8562-4661-9DFF-2E4190C46C61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
